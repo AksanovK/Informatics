@@ -1,0 +1,4 @@
+{name:"Иван";surname:"Петросян";patronymic:"Олегович";id:"1"; specializationId:"10";}
+{name:"Денис";surname:"Денисов";patronymic:"Денисович";id:"2"; specializationId:"11";}
+{name:"Владимир";surname:"Петросян";patronymic:"Равилевич";id:"3"; specializationId:"12";}
+{name:"Владимир123";surname:"Петросяныч";patronymic:"Равилевич";id:"33"; specializationId:"12";}

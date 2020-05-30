@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0682c4cc-b299-4d63-803b-246714a6a8ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCyOzeNUlO3Ipgj54xwGdLyJZf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Work4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.API3">
+    <configuration name="API3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work4.API3" />
+      <module name="Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Work3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Files" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work4.Main" />
+      <module name="Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Work4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work2.Main" />
+      <module name="Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Work3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work3.StreamAPI" />
+      <module name="Files" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Work3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.API3" />
+        <item itemvalue="Application.StreamAPI" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0682c4cc-b299-4d63-803b-246714a6a8ea" name="Default Changelist" comment="" />
+      <created>1586253841669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586253841669</updated>
+      <workItem from="1586253844449" duration="4603000" />
+      <workItem from="1586272076388" duration="89000" />
+      <workItem from="1586277521757" duration="8000" />
+      <workItem from="1586325063900" duration="4059000" />
+      <workItem from="1586773405548" duration="9903000" />
+      <workItem from="1586902858205" duration="1482000" />
+      <workItem from="1586930282922" duration="3155000" />
+      <workItem from="1587453887606" duration="2477000" />
+      <workItem from="1587534749731" duration="4066000" />
+      <workItem from="1587973832907" duration="12532000" />
+      <workItem from="1588139647408" duration="1028000" />
+      <workItem from="1588663015080" duration="4601000" />
+      <workItem from="1588687198530" duration="97000" />
+      <workItem from="1588744105502" duration="2720000" />
+      <workItem from="1588830507781" duration="2214000" />
+      <workItem from="1589304290971" duration="891000" />
+      <workItem from="1589347893072" duration="5282000" />
+      <workItem from="1589845567037" duration="914000" />
+      <workItem from="1589872411934" duration="2253000" />
+      <workItem from="1589898444144" duration="15972000" />
+      <workItem from="1589915088139" duration="23000" />
+      <workItem from="1589920930296" duration="84000" />
+      <workItem from="1589924140754" duration="826000" />
+      <workItem from="1589952766100" duration="4067000" />
+      <workItem from="1590448537105" duration="368000" />
+      <workItem from="1590448936260" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1589901630575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589901630575" />
+    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587536130376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587536130376" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1590448976552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590448976552" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1589958041780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589958041780" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1589958041779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589958041779" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1589958041779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589958041779" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1589958041780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589958041780" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590448935557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590448935557" />
+    <state x="209" y="33" key="new project wizard" timestamp="1590448982647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590448982647" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586326555070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586326555070" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589902376752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589902376752" />
+  </component>
+</project>
